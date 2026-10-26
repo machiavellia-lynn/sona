@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sona</string>
+    <string name="a11y_description">Used only to draw Sona on the topmost layer of the screen, above the status bar. It does not read screen content.</string>
+</resources>
